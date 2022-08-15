@@ -1,0 +1,5 @@
+- keypad component
+- deposit <-> machine interface
+- spinners
+- much better error handling (api error, bad pin, etc)
+- withdrawal custom amount in increments of 20
